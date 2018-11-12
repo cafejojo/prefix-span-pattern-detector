@@ -1,7 +1,6 @@
 package org.cafejojo.schaapi.miningpipeline.patterndetector.prefixspan
 
 import mu.KLogging
-import org.cafejojo.schaapi.miningpipeline.Pattern
 import org.cafejojo.schaapi.miningpipeline.PatternDetector
 import org.cafejojo.schaapi.models.GeneralizedNodeComparator
 import org.cafejojo.schaapi.models.Node
